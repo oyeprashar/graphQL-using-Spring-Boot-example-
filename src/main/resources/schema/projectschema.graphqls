@@ -1,0 +1,4 @@
+type Query {
+    test:String
+    add(a:Int,b:Int):Int
+}
